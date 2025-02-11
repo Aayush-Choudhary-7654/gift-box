@@ -9,7 +9,7 @@ function App() {
           <div className="bg-[crimson] absolute m-auto h-[300px] w-[50px] inset-x-0 top-0"></div>
           <div className="bg-[crimson] absolute m-auto h-[50px] w-[300px] inset-x-0 top-30"></div>
         </div>
-        <div className="bg-[#111] absolute m-auto h-[70px] w-[300px] inset-x-0 top-50 rounded-tl-[23px] rounded-tr-[23px]">
+        <div className="bg-[#111] absolute m-auto h-[70px] w-[300px] inset-x-0 top-46 rounded-tl-[23px] rounded-tr-[23px]">
           <div className="bg-[crimson] absolute m-auto h-[70px] w-[50px] inset-x-0 top-0"></div>
           
         </div>
